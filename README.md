@@ -1,0 +1,3 @@
+# shiro-spring
+初始化
+此demo是shiro和springboot2.x的整合，其中包括和redis的session持久化、常用的一些过滤器的使用和自定义的过滤器的使用
